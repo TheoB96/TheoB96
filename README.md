@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TheoB96
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Theo 
 - 🌱 I’m currently doing a bachelor of Data Science at BI in Oslo
 
 <!---
